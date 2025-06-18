@@ -8,6 +8,9 @@
 }
 
 body {
+  background-color: #121212;
+  color: #e0e0e0;
+
   font-family: "Poppins", sans-serif;
 }
 
@@ -16,7 +19,7 @@ html {
 }
 
 p {
-  color: rgb(85, 85, 85);
+  color: #cccccc;
 }
 
 /* TRANSITION */
@@ -34,6 +37,8 @@ nav,
 }
 
 nav {
+  background-color: #1e1e1e;
+
   justify-content: space-around;
   align-items: center;
   height: 17vh;
@@ -69,6 +74,8 @@ a:hover {
 /* HAMBURGER MENU */
 
 #hamburger-nav {
+  background-color: #1e1e1e;
+
   display: none;
 }
 
@@ -321,7 +328,7 @@ section {
 }
 
 .experience-sub-title {
-  color: rgb(85, 85, 85);
+  color: #cccccc;
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
